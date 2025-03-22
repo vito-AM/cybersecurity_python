@@ -120,33 +120,6 @@ Ce dépôt GitHub rassemble l’ensemble de mes projets liés à la cybersécuri
 
 ---
 
-## Site E-Commerce Fictif
-- **Répertoire** : `ecommerce_site`
-- **Description** :  
-  - Gestion des utilisateurs (inscription/connexion).  
-  - Panier d’achat dynamique et intégration de **Stripe** pour les paiements sécurisés.  
-  - Bonnes pratiques en cybersécurité (validation des entrées, prévention XSS/CSRF, protection des données sensibles).  
-  - Chatbot avec filtrage contextuel (TF-IDF, Word2Vec, LSTM, clustering).  
-- **Technologies** : PHP, HTML/CSS, JavaScript (AJAX, jQuery), MySQL, Flask, Keras
-- **Notes** : Le code complet est très volumineux, mais illustre la **fusion** entre développement web, sécurité et intelligence artificielle.
-
----
-
-# Installation & Usage
-
-1. **Cloner le dépôt** :
-   ```bash
-   git clone https://github.com/MonCompte/mon_pack_de_projets.git
-   cd mon_pack_de_projets
-   ```
-2. **Naviguer** dans chaque sous-dossier pour découvrir les projets et lire le README/les instructions spécifiques.
-3. **Environnements & dépendances** :  
-   - Principalement du **Python 3.x**.  
-   - Certaines bibliothèques (ex. `scapy`, `requests`, `cryptography`) peuvent nécessiter une installation via `pip install -r requirements.txt` (un fichier requirements global ou un par projet).  
-   - Pour les projets web (PHP/MySQL), configure un serveur local (ex. XAMPP, LAMP, etc.).
-
----
-
 # Avertissement Légal
 
 La plupart de ces scripts sont des **outils de sécurité** (key logger, spoofing, scanner de vulnérabilités) et ne doivent être utilisés **que dans un environnement autorisé** (tests en labo, pentesting contractuel, formation). L’auteur décline toute responsabilité en cas d’utilisation illégale ou malveillante.
