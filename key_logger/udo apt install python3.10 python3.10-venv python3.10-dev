@@ -1,0 +1,22 @@
+[32mpython3.12-dbg[0m/kali-rolling 3.12.9-1 arm64
+[32mpython3.12-dev[0m/kali-rolling,now 3.12.9-1 arm64 [installed,automatic]
+[32mpython3.12-doc[0m/kali-rolling 3.12.9-1 all
+[32mpython3.12-examples[0m/kali-rolling 3.12.9-1 all
+[32mpython3.12-full[0m/kali-rolling 3.12.9-1 arm64
+[32mpython3.12-gdbm[0m/kali-rolling 3.12.9-1 arm64
+[32mpython3.12-minimal[0m/kali-rolling,now 3.12.9-1 arm64 [installed,automatic]
+[32mpython3.12-nopie[0m/kali-rolling 3.12.9-1 arm64
+[32mpython3.12-tk[0m/kali-rolling,now 3.12.9-1 arm64 [installed,automatic]
+[32mpython3.12-venv[0m/kali-rolling,now 3.12.9-1 arm64 [installed,automatic]
+[32mpython3.12[0m/kali-rolling,now 3.12.9-1 arm64 [installed,automatic]
+[32mpython3.13-dbg[0m/kali-rolling 3.13.2-1 arm64
+[32mpython3.13-dev[0m/kali-rolling 3.13.2-1 arm64
+[32mpython3.13-doc[0m/kali-rolling 3.13.2-1 all
+[32mpython3.13-examples[0m/kali-rolling 3.13.2-1 all
+[32mpython3.13-full[0m/kali-rolling 3.13.2-1 arm64
+[32mpython3.13-gdbm[0m/kali-rolling 3.13.2-1 arm64
+[32mpython3.13-minimal[0m/kali-rolling 3.13.2-1 arm64
+[32mpython3.13-nopie[0m/kali-rolling 3.13.2-1 arm64
+[32mpython3.13-tk[0m/kali-rolling,now 3.13.2-1 arm64 [installed,automatic]
+[32mpython3.13-venv[0m/kali-rolling 3.13.2-1 arm64
+[32mpython3.13[0m/kali-rolling 3.13.2-1 arm64

@@ -1,0 +1,135 @@
+2025-03-17 09:34:20,805 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/__init__.py", line 230, in inner
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/xorg.py", line 472, in _handler
+    self._handle(self._display_stop, event, injected)
+    ^^^^^^^^^^^^
+AttributeError: 'Listener' object has no attribute '_handle'. Did you mean: '_handler'?
+2025-03-17 09:37:02,707 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/__init__.py", line 230, in inner
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/xorg.py", line 472, in _handler
+    self._handle(self._display_stop, event, injected)
+    ^^^^^^^^^^^^
+AttributeError: 'Listener' object has no attribute '_handle'. Did you mean: '_handler'?
+2025-03-17 09:37:39,398 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/__init__.py", line 230, in inner
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/xorg.py", line 472, in _handler
+    self._handle(self._display_stop, event, injected)
+    ^^^^^^^^^^^^
+AttributeError: 'Listener' object has no attribute '_handle'. Did you mean: '_handler'?
+2025-03-17 09:37:54,089 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/__init__.py", line 230, in inner
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/xorg.py", line 472, in _handler
+    self._handle(self._display_stop, event, injected)
+    ^^^^^^^^^^^^
+AttributeError: 'Listener' object has no attribute '_handle'. Did you mean: '_handler'?
+2025-03-17 09:40:57,530 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/__init__.py", line 230, in inner
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/xorg.py", line 472, in _handler
+    self._handle(self._display_stop, event, injected)
+    ^^^^^^^^^^^^
+AttributeError: 'Listener' object has no attribute '_handle'. Did you mean: '_handler'?
+2025-03-17 09:43:03,158 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/__init__.py", line 230, in inner
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/xorg.py", line 472, in _handler
+    self._handle(self._display_stop, event, injected)
+    ^^^^^^^^^^^^
+AttributeError: 'Listener' object has no attribute '_handle'. Did you mean: '_handler'?
+2025-03-17 09:43:03,161 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/__init__.py", line 230, in inner
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/xorg.py", line 472, in _handler
+    self._handle(self._display_stop, event, injected)
+    ^^^^^^^^^^^^
+AttributeError: 'Listener' object has no attribute '_handle'. Did you mean: '_handler'?
+2025-03-17 09:43:19,041 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/__init__.py", line 230, in inner
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/xorg.py", line 472, in _handler
+    self._handle(self._display_stop, event, injected)
+    ^^^^^^^^^^^^
+AttributeError: 'Listener' object has no attribute '_handle'. Did you mean: '_handler'?
+2025-03-17 09:43:31,467 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/__init__.py", line 230, in inner
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/xorg.py", line 472, in _handler
+    self._handle(self._display_stop, event, injected)
+    ^^^^^^^^^^^^
+AttributeError: 'Listener' object has no attribute '_handle'. Did you mean: '_handler'?
+2025-03-17 09:43:31,468 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/__init__.py", line 230, in inner
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/xorg.py", line 472, in _handler
+    self._handle(self._display_stop, event, injected)
+    ^^^^^^^^^^^^
+AttributeError: 'Listener' object has no attribute '_handle'. Did you mean: '_handler'?
+2025-03-17 09:44:22,806 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/__init__.py", line 230, in inner
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/xorg.py", line 472, in _handler
+    self._handle(self._display_stop, event, injected)
+    ^^^^^^^^^^^^
+AttributeError: 'Listener' object has no attribute '_handle'. Did you mean: '_handler'?
+2025-03-17 09:44:22,807 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/__init__.py", line 230, in inner
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/xorg.py", line 472, in _handler
+    self._handle(self._display_stop, event, injected)
+    ^^^^^^^^^^^^
+AttributeError: 'Listener' object has no attribute '_handle'. Did you mean: '_handler'?
+2025-03-17 09:44:57,119 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/__init__.py", line 230, in inner
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/xorg.py", line 472, in _handler
+    self._handle(self._display_stop, event, injected)
+    ^^^^^^^^^^^^
+AttributeError: 'Listener' object has no attribute '_handle'. Did you mean: '_handler'?
+2025-03-17 09:45:18,615 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/__init__.py", line 230, in inner
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/xorg.py", line 472, in _handler
+    self._handle(self._display_stop, event, injected)
+    ^^^^^^^^^^^^
+AttributeError: 'Listener' object has no attribute '_handle'. Did you mean: '_handler'?
+2025-03-17 09:45:51,111 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/__init__.py", line 230, in inner
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vito/PycharmProjects/PythonProject/key_logger/.venv/lib/python3.12/site-packages/pynput/_util/xorg.py", line 472, in _handler
+    self._handle(self._display_stop, event, injected)
+    ^^^^^^^^^^^^
+AttributeError: 'Listener' object has no attribute '_handle'. Did you mean: '_handler'?
